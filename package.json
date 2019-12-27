@@ -1,0 +1,30 @@
+{
+  "name": "@turbot/utils",
+  "author": "Turbot HQ, Inc",
+  "version": "5.0.5",
+  "description": "Turbot Utils Library.",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turbot/utils.git"
+  },
+  "scripts": {
+    "coverage": "npx nyc npm test",
+    "test": "npx mocha"
+  },
+  "dependencies": {
+    "lodash": "4.17.15",
+    "serialize-error": "2.1.0"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "eslint": "6.5.0",
+    "eslint-config-prettier": "6.4.0",
+    "eslint-plugin-prettier": "3.1.1",
+    "eslint-plugin-you-dont-need-lodash-underscore": "6.8.0",
+    "mocha": "5.2.0",
+    "nyc": "14.1.1",
+    "prettier": "1.19.1"
+  }
+}
