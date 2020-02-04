@@ -9,6 +9,7 @@ describe("@turbot/utils", function() {
         ["safe name", "hello", false],
         ["prefixed name", "$password", true],
         ["unsafe name", "password", true],
+        ["unsafe name", "clientSecret", true],
         ["unsafe name, mixed case", "PasSwOrd", true],
         ["prefixed name, but prefixes set to []", "$password", false, { prefixes: [] }],
         ["custom prefix char", "#password", true, { prefixes: ["#"] }],

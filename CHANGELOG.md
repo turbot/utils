@@ -2,6 +2,10 @@
 
 # Release History
 
+## 5.0.6 [tbd]
+
+- Fixed: incorrect sensitive key detection if key defined with upper case. Sensitive key comparison is case insensitive.
+
 ## 5.0.5 [2019-12-27]
 
 - Fixed: missing export in the index file.
