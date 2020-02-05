@@ -2,7 +2,7 @@
 
 # Release History
 
-## 5.0.6 [tbd]
+## 5.0.6 [2020-02-05]
 
 - Fixed: incorrect sensitive key detection if key defined with upper case. Sensitive key comparison is case insensitive.
 
