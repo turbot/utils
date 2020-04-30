@@ -1,7 +1,7 @@
 {
   "name": "@turbot/utils",
   "author": "Turbot HQ, Inc",
-  "version": "5.0.6",
+  "version": "5.1.0",
   "description": "Turbot Utils Library.",
   "license": "Apache-2.0",
   "main": "index.js",
