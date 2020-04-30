@@ -2,6 +2,12 @@
 
 # Release History
 
+## 5.1.0 [2020-04-30]
+
+- Updated: added `access_token` to the default sensitive field list.
+- Updated: serializeError 6.0.0, eslint 6.8.0, mocha 7.1.2, nyc 15.0.1, prettier 2.0.5.
+- Updated: eslint & prettier config to match Turbot's standard.
+
 ## 5.0.6 [2020-02-05]
 
 - Fixed: incorrect sensitive key detection if key defined with upper case. Sensitive key comparison is case insensitive.
