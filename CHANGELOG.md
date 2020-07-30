@@ -4,7 +4,7 @@
 
 ## 5.2.0 [2020-07-30]
 
-- Updated: loadash to ^4.17.19.
+- Updated: lodash to ^4.17.19.
 - Updated: dev dependencies.
 
 ## 5.1.0 [2020-04-30]
