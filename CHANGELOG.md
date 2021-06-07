@@ -2,6 +2,11 @@
 
 # Release History
 
+## 5.3.0 [2021-06-07]
+
+- Updated: serialize-error to 8.1.0.
+- Updated: dev dependencies.
+
 ## 5.2.0 [2020-07-30]
 
 - Updated: lodash to ^4.17.19.
