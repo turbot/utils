@@ -2,6 +2,10 @@
 
 # Release History
 
+## 5.5.0 [2022-06-22]
+
+- Removed: mocha and nyc dev dependencies
+
 ## 5.4.0 [2022-06-22]
 
 - Added: secretValue in the default sanitize keywords

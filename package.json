@@ -1,7 +1,7 @@
 {
   "name": "@turbot/utils",
   "author": "Turbot HQ, Inc",
-  "version": "5.4.0",
+  "version": "5.5.0",
   "description": "Turbot Utils Library.",
   "license": "Apache-2.0",
   "main": "index.js",
@@ -23,8 +23,6 @@
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-prettier": "3.4.0",
     "eslint-plugin-you-dont-need-lodash-underscore": "6.12.0",
-    "mocha": "8.4.0",
-    "nyc": "15.1.0",
     "prettier": "2.3.1"
   },
   "eslintConfig": {
