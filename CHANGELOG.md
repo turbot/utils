@@ -2,6 +2,10 @@
 
 # Release History
 
+## 5.4.0 [2022-06-22]
+
+- Added: secretValue in the default sanitize keywords
+
 ## 5.3.0 [2021-06-07]
 
 - Updated: serialize-error to 8.1.0.
