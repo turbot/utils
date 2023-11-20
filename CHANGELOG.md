@@ -2,6 +2,10 @@
 
 # Release History
 
+## 5.6.0 [2023-11-20]
+
+- Updated: dev dependencies.
+
 ## 5.5.0 [2022-06-22]
 
 - Removed: mocha and nyc dev dependencies
